@@ -1,4 +1,4 @@
 # table of contents
 
 - ## docker
-  - [vscode-inside-docker-container](/vscode-inside-docker-container.md)
+  - [wayland-docker-gui-window-passthrough](/wayland-docker-gui-window-passthrough.md)
