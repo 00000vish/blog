@@ -43,5 +43,5 @@ sudo docker run -e XDG_RUNTIME_DIR=/tmp \
 ![Screenshot From 2025-01-08 23-40-21](https://github.com/user-attachments/assets/1a96fb1c-ebd9-4d85-8c77-db7398223cf4)
 
 ## Remarks
-- https://github.com/jessfraz/dockerfiles
-- https://github.com/mviereck/x11docker
+- [https://github.com/jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles)
+- [https://github.com/mviereck/x11docker](https://github.com/mviereck/x11docker)
