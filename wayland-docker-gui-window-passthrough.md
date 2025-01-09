@@ -1,3 +1,5 @@
+# `wayland-docker-gui-window-passthrough.md`
+
 > **Goal**  
 > Run vscode inside docker container and get vscode window passthrough to a wayland host.
 
